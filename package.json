@@ -1,0 +1,8 @@
+{
+  "name": "poc",
+  "version": "1.0.0",
+  "description": "Takeover poc",
+  "scripts": {
+    "postinstall": "echo 'Takeover by Codermak'"
+  }
+}
